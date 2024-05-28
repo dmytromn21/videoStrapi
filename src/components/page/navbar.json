@@ -1,0 +1,33 @@
+{
+  "collectionName": "components_page_navbars",
+  "info": {
+    "displayName": "navbar",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "logo": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "Recruiter": {
+      "type": "richtext"
+    },
+    "Candidate": {
+      "type": "richtext"
+    },
+    "Aboutus": {
+      "type": "richtext"
+    },
+    "Contact": {
+      "type": "richtext"
+    },
+    "login": {
+      "type": "richtext"
+    }
+  }
+}

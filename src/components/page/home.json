@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_page_homes",
+  "info": {
+    "displayName": "home",
+    "icon": "house",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "navbar": {
+      "displayName": "navbar",
+      "type": "component",
+      "repeatable": true,
+      "component": "page.navbar"
+    }
+  }
+}
